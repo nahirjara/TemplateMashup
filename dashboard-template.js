@@ -22,6 +22,10 @@ require(["js/qlik"], function (qlik) {
 		console.log(error);
 	});
 
+	//reload
+	qlik.app.doReload();
+
+
 	
 
 	//callbacks -- inserted here --
