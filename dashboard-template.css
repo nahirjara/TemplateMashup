@@ -298,6 +298,7 @@ paper-item{
     padding-top: 20px;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
      color: #838383;
     line-height: 0px;
 }
@@ -309,6 +310,7 @@ paper-item{
 .paper-menu-0 .selectable-content.paper-menu .iron-selected{
     font-weight: 300 !important;
     /* background-color: #F5F5FA; */
+    cursor: pointer;
      color:#fe8101; 
 }
 

@@ -1,9 +1,9 @@
 {
 	"type": "mashup-template",
-	"name": "DAR template",
-	"description": "DAR template for mashups",
+	"name": "Taligent template",
+	"description": "Taligent template for mashups",
 	"homepage" : "",
-	"author": "Francis Kabinoff & Arturo Munoz",
+	"author": "Celula QLik",
     "version" : "1.0.0",
     "preview" : "preview.png",
     "keywords" : "qlik-sense, mashup, dashboard",
